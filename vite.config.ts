@@ -7,5 +7,5 @@ export default defineConfig({
     build: {
         outDir: "./docs",
     },
-    base: "/archive/",
+    base: "https://es1h2o.github.io/archive/",
 });
