@@ -7,5 +7,5 @@ export default defineConfig({
     build: {
         outDir: "./docs",
     },
-    base: "/just-an-archive/",
+    base: "/archive/",
 });
